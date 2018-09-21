@@ -1,0 +1,9 @@
+This is fake license file :P. 
+This file first changed
+
+<<<<<<< HEAD
+Changed again 5:11PM
+=======
+This change is made on branch1
+>>>>>>> branch1
+

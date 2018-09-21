@@ -1,0 +1,13 @@
+This is the First file in Project name Practice_Project. 
+This project is created to practice Git.
+
+
+Practicing Git.. 18 Sep 2018, 5:35 PM
+
+This will be second commit..
+18 Sep, 2018, 6: 38 PM
+
+
+Another Changes, 19 Sep 2018
+
+Changed 2:15, 19 Sep
