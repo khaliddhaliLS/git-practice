@@ -10,3 +10,5 @@ This change is made on branch1
 //This line is added from local repo at 10:40am at 25 Sep 2018.
 //Another line is added from local repo: origin master (to conflict intentionaly wit another usr name git-practice_usr2.
 
+
+//This line is added from local repo: usr2
